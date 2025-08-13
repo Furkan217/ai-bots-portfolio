@@ -1,3 +1,0 @@
-python-dotenv>=1.0.1
-# Optional: xai-sdk (if you want to run with a real xAI key; falls back to mock if not installed)
-# xai-sdk
